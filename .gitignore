@@ -1,0 +1,7 @@
+*.log
+.env*
+*.key
+*.pem
+*.zip
+*.tar
+.DS_Store
